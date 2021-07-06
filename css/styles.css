@@ -24,7 +24,7 @@ body{
 h1{
   font-family: 'Oxygen', sans-serif;
   color: var(--secunadary);
-  font weight: 400;
+  font-weight: 600;
 }
 i{
   margin-right: 0.5rem;
