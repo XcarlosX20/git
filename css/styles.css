@@ -77,7 +77,7 @@ ul{
     background-color: transparent;
   }
   .redes-sociales{
-    padding: 1rem;
+    padding: 0;
   }
   .redes-sociales p{
     color: white;
@@ -109,7 +109,9 @@ ul{
     .redes-sociales p{
       padding: 5px;
     } 
-    
+    .redes-sociales{
+    padding: 1rem;
+  }
     
   .education-exp{
     display: grid;
