@@ -6,6 +6,4 @@
 6- git log
 7- git commit --amend
 8- git pull: extraer data del repo local
-9- git remote 
-    add origin
-    remove origin
+
