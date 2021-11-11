@@ -6,4 +6,5 @@
 6- git log
 7- git commit --amend
 8- git pull: extraer data del repo local
-
+9- git branch: add a new branch
+    git branch -D nameBranch: delete branch;
