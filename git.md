@@ -10,4 +10,3 @@
     git branch -D nameBranch: delete branch;
 10- git remote add origin 
             remove origin
-
