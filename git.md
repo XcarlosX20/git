@@ -10,3 +10,4 @@
     git branch -D nameBranch: delete branch;
 10- git remote add origin 
             remove origin
+11- git merge namebranch: fusionar una rama con otra (se trae la rama que especificas)
